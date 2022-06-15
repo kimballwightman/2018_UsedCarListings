@@ -10,7 +10,7 @@ This data was scraped from TrueCar.com (and uploaded to Kaggle, where the datase
 Below is the link the dataset collected from Kaggle as "true_car_listings.csv":
 - https://www.kaggle.com/datasets/jpayne/852k-used-car-listings
 
-The csv files were uploaded using Git LFS.
+The csv files in the "02 Data" folder were uploaded using Git LFS.
 
 ## Code
 The scripts walk through performing data quality checks and exploratory analysis, linear regression and k-means clustering techniques in scikit-learn, and time series sourcing/analysis.
